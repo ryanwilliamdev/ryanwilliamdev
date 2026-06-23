@@ -1,6 +1,6 @@
 # Hi there, I'm Ryan 🤙
 
-A perceptive **Full-Stack Engineer** specializing in building modern, scalable, and highly interactive web applications. I love crafting clean code, optimizing performance, and bringing pixel-perfect designs to life.
+A perceptive **Full-Stack Software Engineer** specializing in building modern, scalable, and highly interactive web applications. I love crafting clean code, optimizing performance, and bringing pixel-perfect designs to life.
 
 ---
 
